@@ -1,15 +1,14 @@
 # prep work
-
-  [X] Define our vision
-  [ ] Research our market opportunity
-  [ ] Research our competition
-  [ ] Write a business plan
-  [ ] Perfect our sales pitch
-  [ ] Understand our startup cost
-  [ ] Plan our starting finances
-  [ ] Develop our product
-  [ ] Determine my business structure
-  [ ] Investigate your legal requirements
+- [X] Define our vision
+- [ ] Research our market opportunity
+- [ ] Research our competition
+- [ ] Write a business plan
+- [ ] Perfect our sales pitch
+- [ ] Understand our startup cost
+- [ ] Plan our starting finances
+- [ ] Develop our product
+- [ ] Determine my business structure
+- [ ] Investigate your legal requirements
 
 ## 1. Define our vision
 
@@ -17,9 +16,9 @@
 
 Whenever I see amazing effects created by cool technology, I can always be stopped by the high price and complicated usage.So, I started trying to solve the problem a little bit to make it easier to use. In the process, I also became more powerful to realize various creations.
 
-I have been sharing my creative process in the hope that others will find more problems to solve and interesting application scenarios.
+I have been sharing my creative process in the hope that others will find more problems to solve and interesting application scenarios.More and more works are liked by people and even want to buy them.
 
-More and more works are liked by people and even want to buy them.
+Once again creating a company that incubates dreams, open source and do it together.
 
 ## 2. Research our market opportunity
 
