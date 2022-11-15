@@ -22,7 +22,23 @@ Once again creating a company that incubates dreams, open source and do it toget
 
 ## 2. Research our market opportunity
 
+After more than ten years of development, the open source hardware ecosystem has gradually matured, helping many makers realize their whimsical ideas, and also helping many companies complete rapid prototyping. Various open source agreements make the maker ecosystem very active, but also limit the commercialization of open source hardware to a low level.
 
+Try to develop applications using open source hardware, keeping hardware design and software functionality open source. The user interface and interactive logic are packaged into commercial firmware and distributed to users by subscription.
+
+It not only has the characteristics of rapid development and iteration, but also has the continuous business model of firmware subscription.
+
+The slogan is loud, but people may not believe it. Success stories need to be shown in front of people. Miracles do not wait to come, but create their own hands.
+
+Just like making hardware, proofing first.
+
+### Select a product or service
+
+### Validate our product idea
+
+### Define our target market
+
+### Know our market size or opportunity
 
 ## 3. Research our competition
 
