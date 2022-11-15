@@ -1,6 +1,6 @@
 # prep work
 
-[ ] 1. Define our vision
+[X] 1. Define our vision
 [ ] 2. Research our market opportunity
 [ ] 3. Research our competition
 [ ] 4. Write a business plan
