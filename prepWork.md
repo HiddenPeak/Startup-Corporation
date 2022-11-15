@@ -1,16 +1,15 @@
 # prep work
 
-[X] Define our vision
-
-[ ] Research our market opportunity
-[ ] Research our competition
-[ ] Write a business plan
-[ ] Perfect our sales pitch
-[ ] Understand our startup cost
-[ ] Plan our starting finances
-[ ] Develop our product
-[ ] Determine my business structure
-[ ] Investigate your legal requirements
+  [X] Define our vision
+  [ ] Research our market opportunity
+  [ ] Research our competition
+  [ ] Write a business plan
+  [ ] Perfect our sales pitch
+  [ ] Understand our startup cost
+  [ ] Plan our starting finances
+  [ ] Develop our product
+  [ ] Determine my business structure
+  [ ] Investigate your legal requirements
 
 ## 1. Define our vision
 
