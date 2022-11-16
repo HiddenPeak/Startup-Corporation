@@ -1,3 +1,5 @@
+# 
+
 ## Write a list to do
 
 - [x] SIM Card (U.S.)
@@ -34,3 +36,6 @@ No need to worry about the failure to register due to the use of virtual platfor
 - Quora Thomas Hiddenpeak
 
 The creation of these accounts is not the account of the company, and no business-related recommendations will be made, but my scenes and details will be shown.
+
+## Set up corporation
+
