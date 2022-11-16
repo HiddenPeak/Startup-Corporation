@@ -1,4 +1,7 @@
-# 
+# Complete prototype verification
+
+- Function realization
+- Market demand
 
 ## Write a list to do
 
