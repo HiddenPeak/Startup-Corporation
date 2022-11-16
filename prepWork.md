@@ -32,13 +32,13 @@ The slogan is loud, but people may not believe it. Success stories need to be sh
 
 Just like making hardware, proofing first.
 
-### Select a product or service
+### 2.1 Select a product or service
 
-### Validate our product idea
+### 2.2 Validate our product idea
 
-### Define our target market
+### 2.3 Define our target market
 
-### Know our market size or opportunity
+### 2.4 Know our market size or opportunity
 
 ## 3. Research our competition
 
