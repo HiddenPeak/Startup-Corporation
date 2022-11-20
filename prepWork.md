@@ -34,7 +34,16 @@ Just like making hardware, proofing first.
 
 ### 2.1 Select a product or service
 
+I need some tools for my films. However they are too expensive to buy. For example, the DJi 3DToF module for autofouce, it's over $600.
+I try to make a tool for autofocus,measuring by ToF sensor and controlling with BLE.
+Only for BMD Camera Now.
+
+The Hardware is open source. All functions are open source too. Everyone can use the source files for free.
+The ROMs are subscriptions by $100 per year.
+
 ### 2.2 Validate our product idea
+
+
 
 ### 2.3 Define our target market
 
