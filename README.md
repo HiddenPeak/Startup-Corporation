@@ -16,3 +16,13 @@ The story is continuing
 
 - [FRISTWORK](./first-ready.md)
 - [BUSINESS PRE WORK](./prepWork.md)
+
+## Current Expenses
+
+`
+Firtsbase Start™ $499
+Firstbase Agent™ $99/year
+Mailroom Delaware $35/mo
+Chinese Resident ID Card Translation Fees RMB 100 Yuan
+`
+ Total $633 AND RMB 100 YUAN
