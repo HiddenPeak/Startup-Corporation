@@ -11,3 +11,8 @@ Open Source Hardware Biz-plan
 - 2022-11-25 Completed Notarize for USPS Form 1583
 
 The story is continuing
+
+## Paperwork
+
+[FRISTWORK](./first-ready.md)
+[BUSINESS PRE WORK](./prepWork.md)
