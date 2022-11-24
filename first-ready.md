@@ -9,7 +9,7 @@
 - [x] Email & Google account
 - [x] Social Account
 - [ ] Set up corporation
-- [ ] Physical address Service
+- [x] Physical address Service
 - [ ] Business Plan
 - [ ] Intellectual Property Protection
 - [ ] Website and Eshop
@@ -42,3 +42,70 @@ The creation of these accounts is not the account of the company, and no busines
 
 ## Set up corporation
 
+C-Corporation. A corporation is an independent entity for tax purposes. Corporations generally pay corporate taxes on their own profits, and their shareholders pay personal income on the capital distributed to them.
+Delaware. The gold standard for startups planning to raise funding from angel investors and venture capital firms.
+
+Use https://www.firstbase.io/ Start my business. 
+
+Share this coupon code with your friends to give them $20 off incorporation.
+`
+STARTTHOMASXUR96E966
+`
+Share this coupon code with your friends to give them one month free of Mailroom™
+`
+MAILROOMTHOMASXUR96E966
+`
+
+1. Verify Business Name -- Hiddenpeak Inc.
+2. Physical address Service -- 1007 N Orange St. 4th Floor  Suite #1403, Wilmington, Delaware 19801, United States
+
+Verify the proposed business name is available in the requested state.
+I am not sure if I need to fill out a BE-13 filing.(2022-11-24, Thanksgiving)
+
+## Physical address Service
+
+$35/mo or $350/year, so expensive.
+1007 N Orange St. 4th Floor  Suite #1403, Wilmington, Delaware 19801, United States
+
+Since registration requires the use of USPS services to receive the documents needed for company registration, a business address is required.
+If you are not in the US, you will have to choose to rent one of these addresses.
+You can use the Anytime mailbox service, but I went straight to the mailroom service provided by Fristbase.io.
+In any case, you need to complete the USPS Form 1583 notarization.
+
+Many Chinese netizens have pointed out that you should not use Notarize online, and that does make sense.
+But I went straight to Notarize.com's service and did not charge separately.
+Normally, the notary fee is $25 for US citizens and $75 for non-US residents.
+
+I chose a passport as my primary ID and a translated and original ID as my secondary ID.
+The first time I chose secondary identification, I used my ID card directly.
+And I informed the notary that the ID card of a Chinese citizen can be used as a voter registration card, and the other party approved, but he could not read Chinese.
+Regarding the translation of the ID card, it needs to be stamped by a qualified translation company. My colleague helped me find a service provider for RMB 100.
+Netizens said they could use the translated copy of driver's license, and I tried it, and was told by the online notary from Virginia that their state does not support non-US driver's license as secondary ID.
+Some netizens said they could use a utility bill with their name and home address, but for sure they still couldn't read it and needed a translation as well.
+
+After preparing the information, upload scanned documents or translated documents.
+Although Notarize.com claims 24/7 service, I have never been able to access it correctly during my working hours in China, and it is better to choose the time after 21:00 Beijing time.
+
+The process of notarization is as follows.
+1. The notary will confirm if he can be heard
+2. The notary introduces himself
+3. The notary greets you
+4. The notary asks for your name
+5. Confirm your credentials
+6. you are asked to click the blue button at the bottom of the app and sign.
+7. Sign with your full name and initials.
+12. Confirm that the ID numbers match
+8. ask for a contact number to be filled in
+9. confirm whether it is for business or personal use
+10. company name
+11. check if the company already exists
+13. Confirm that you understand the content of the document to be notarized
+14. confirm your position in the company
+15. finally inform you that the notarization has been completed
+16. wish you a good day
+
+Their service is friendly and efficient, especially if you don't have your identification documents ready, they will just remind you what kind of documents you need to prepare and then hang up the phone with kindness and speed. Hahahahaha.
+
+If your documents are prepared correctly, even if there are some problems communicating in English, both parties can still complete the notarization with the addition of translation software. This is because most of the time, you only need to say your name, title and YES.
+
+The long process was mostly spent on preparing proper identification, and after this experience, it was easy to use the Notarize.com app.
