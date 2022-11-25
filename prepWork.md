@@ -49,6 +49,18 @@ It works on Bmpcck4k When 2022-09-20.
 
 [The 1st Test results](https://www.bilibili.com/video/BV1514y1Y7wM/?spm_id_from=333.999.0.0&vd_source=7edfd45332850ca7a713eafe9d1d24d2)
 
+Basic UI Done when 2022-09-23
+
+[Operation Demo](https://www.bilibili.com/video/BV19G411u7e5/?spm_id_from=333.999.0.0&vd_source=7edfd45332850ca7a713eafe9d1d24d2)
+
+BMPCC4K autofocus module Large aperture macro to 2M Test 40mm f/2.8
+
+[The 2nd Autofocus test](https://www.bilibili.com/video/BV1kg411e7i8/?spm_id_from=pageDriver&vd_source=7edfd45332850ca7a713eafe9d1d24d2)
+
+Focusing speed optimization
+
+[The 3rd Autofocus test](https://www.bilibili.com/video/BV1kg411e7i8/?spm_id_from=333.999.0.0&vd_source=7edfd45332850ca7a713eafe9d1d24d2)
+
 ### 2.3 Define our target market
 
 ### 2.4 Know our market size or opportunity
