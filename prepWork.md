@@ -44,7 +44,9 @@ The ROMs are subscriptions by $100 per year.
 ### 2.2 Validate our product idea
 
 Form 2022-09-1 to 2022-09-18, Use Open source Hardware, M5Sticks Plus + HAT ToF. Coding...
+
 It works on Bmpcck4k When 2022-09-20. 
+
 [The 1st Test results](https://www.bilibili.com/video/BV1514y1Y7wM/?spm_id_from=333.999.0.0&vd_source=7edfd45332850ca7a713eafe9d1d24d2)
 
 ### 2.3 Define our target market
