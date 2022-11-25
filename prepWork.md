@@ -90,6 +90,14 @@ The market size needs to be estimated through sales channel understanding, and s
 
 The BMD Camera only has the ability to autofocus a single time and cannot continuously follow the focus. Panasonic's GH5, GH6 and other devices with autofocus are also not very good.
 
+`
+In the end, market research means quantifying the opportunity your product or service represents. Take time to figure out the total addressable market (TAM) of your potential customer base. Estimating the current and future value of your business idea and setting reasonable goals can help you win a piece of the pie.
+`
+
+`
+Who will your business serve? [Begin to identify your target market](https://quickbooks.intuit.com/r/marketing/how-to-identify-your-target-audience/) with demographics like age, gender, income, and location. Then go deeper through personas or create a customer journey map.
+`
+
 ## 3. Research our competition
 
 There is currently a stock of BMD Camera users in the small studio market. To achieve the autofocus function, there are DJi solutions on the market, which are expensive and can only work with stabilizers for the time being. There are software developers who make iOS applications that can achieve the autofocus function, but they can only be used on iPhone 13 Pro models and above.
