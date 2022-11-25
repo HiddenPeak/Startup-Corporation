@@ -99,11 +99,21 @@ Who will your business serve? Begin to identify your target market with demograp
 `
 
 The reference information is as follows.
+
 [Begin to identify your target market](https://quickbooks.intuit.com/r/marketing/how-to-identify-your-target-audience/)
 
 ## 3. Research our competition
 
 There is currently a stock of BMD Camera users in the small studio market. To achieve the autofocus function, there are DJi solutions on the market, which are expensive and can only work with stabilizers for the time being. There are software developers who make iOS applications that can achieve the autofocus function, but they can only be used on iPhone 13 Pro models and above.
+
+`
+Competitor analysis is one of the key ingredients to a successful business. It not only lets you see what’s out there to compare, but you can also see where your competition is lacking. This means finding the gaps, exploiting them, and reaping the benefits of your improvement on the market.
+`
+
+The reference information is as follows.
+
+[Competitor analysis](https://quickbooks.intuit.com/r/starting-a-business/conduct-competitive-analysis/)
+
 
 ## 4. Write a business plan
 
