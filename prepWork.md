@@ -1,4 +1,7 @@
 # prep work
+
+This document references QuickBooks' [How to start a business](https://quickbooks.intuit.com/r/starting-a-business/how-to-start-a-business/)
+
 - [X] Define our vision
 - [ ] Research our market opportunity
 - [ ] Research our competition
