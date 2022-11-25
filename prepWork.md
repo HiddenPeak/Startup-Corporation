@@ -104,3 +104,13 @@ There is currently a stock of BMD Camera users in the small studio market. To ac
 ## 9. Determine my business structure
 
 ## 10. Investigate your legal requirements
+
+Based on what is currently known, you will need to register your business, obtain an Employer Identification Number (EIN), open a bank account, and file an annual report by March 1 of each year. 
+
+Need to have a physical address where you can receive USPS business mail. 
+
+A Foreign Investor Information Report may be required to be filed with the Bureau of Economic Analysis. 
+
+To open a business entity outside of Delaware, you will need to obtain a franchise permit from each state. A franchise tax of at least $400 per year will need to be paid to the State of Delaware. 
+
+There are other situations that will be updated here.
