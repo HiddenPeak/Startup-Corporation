@@ -88,15 +88,18 @@ Mid-term: Panasonic GH5 and GH6 users
 
 The market size needs to be estimated through sales channel understanding, and since BMD is a private company, its financial information is not available.
 
-The BMD Camera only has the ability to autofocus a single time and cannot continuously follow the focus. Panasonic's GH5, GH6 and other devices with autofocus are also not very good.
-
 `
 In the end, market research means quantifying the opportunity your product or service represents. Take time to figure out the total addressable market (TAM) of your potential customer base. Estimating the current and future value of your business idea and setting reasonable goals can help you win a piece of the pie.
 `
 
+The BMD Camera only has the ability to autofocus a single time and cannot continuously follow the focus. Panasonic's GH5, GH6 and other devices with autofocus are also not very good.
+
 `
-Who will your business serve? [Begin to identify your target market](https://quickbooks.intuit.com/r/marketing/how-to-identify-your-target-audience/) with demographics like age, gender, income, and location. Then go deeper through personas or create a customer journey map.
+Who will your business serve? Begin to identify your target market with demographics like age, gender, income, and location. Then go deeper through personas or create a customer journey map.
 `
+
+The reference information is as follows.
+[Begin to identify your target market](https://quickbooks.intuit.com/r/marketing/how-to-identify-your-target-audience/)
 
 ## 3. Research our competition
 
