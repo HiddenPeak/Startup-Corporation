@@ -12,9 +12,7 @@
 - [x] Social Account
 - [ ] Set up corporation
 - [x] Physical address Service
-- [ ] Business Plan
-- [ ] Intellectual Property Protection
-- [ ] Website and Eshop
+
 
 ## Got a SIM Card (U.S.)
 
@@ -111,3 +109,9 @@ Their service is friendly and efficient, especially if you don't have your ident
 If your documents are prepared correctly, even if there are some problems communicating in English, both parties can still complete the notarization with the addition of translation software. This is because most of the time, you only need to say your name, title and YES.
 
 The long process was mostly spent on preparing proper identification, and after this experience, it was easy to use the Notarize.com app.
+
+## Next works
+
+- [ ] Business Plan
+- [ ] Intellectual Property Protection
+- [ ] Website and Eshop
