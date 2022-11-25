@@ -14,8 +14,8 @@ The story is continuing
 
 ## Paperwork
 
-- [FRISTWORK](./first-ready.md)
 - [BUSINESS PRE WORK](./prepWork.md)
+- [FRISTWORK](./first-ready.md)
 
 ## Current Expenses
 
