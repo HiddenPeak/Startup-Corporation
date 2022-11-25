@@ -83,11 +83,13 @@ Mid-term: Panasonic GH5 and GH6 users
 
 ### 2.4 Know our market size or opportunity
 
-There is currently a stock of BMD Camera users in the small studio market. To achieve the autofocus function, there are DJi solutions on the market, which are expensive and can only work with stabilizers for the time being. There are software developers who make iOS applications that can achieve the autofocus function, but they can only be used on iPhone 13 Pro models and above.
-
 The market size needs to be estimated through sales channel understanding, and since BMD is a private company, its financial information is not available.
 
+The BMD Camera only has the ability to autofocus a single time and cannot continuously follow the focus. Panasonic's GH5, GH6 and other devices with autofocus are also not very good.
+
 ## 3. Research our competition
+
+There is currently a stock of BMD Camera users in the small studio market. To achieve the autofocus function, there are DJi solutions on the market, which are expensive and can only work with stabilizers for the time being. There are software developers who make iOS applications that can achieve the autofocus function, but they can only be used on iPhone 13 Pro models and above.
 
 ## 4. Write a business plan
 
