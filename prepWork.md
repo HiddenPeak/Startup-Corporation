@@ -63,7 +63,29 @@ Focusing speed optimization
 
 ### 2.3 Define our target market
 
+### Customer Groups
+
+Recent: BMPCC4K and BMPCC6K users
+
+Mid-term: Panasonic GH5 and GH6 users
+
+### Product Features
+
+- Remote recording, stop button
+- Remote manual focusing of the lens without the use of an external motor
+- Center point area 2m auto focus
+- Center point area 5m auto focus
+- Center point area 10m auto focus
+- Millimeter wave radar multi-point focus
+- One level of color mixing (Only for BMD Camera)
+- Digital Field Marker (Only for BMD Camera)
+- Timecoder(Only for BMD Camera)
+
 ### 2.4 Know our market size or opportunity
+
+There is currently a stock of BMD Camera users in the small studio market. To achieve the autofocus function, there are DJi solutions on the market, which are expensive and can only work with stabilizers for the time being. There are software developers who make iOS applications that can achieve the autofocus function, but they can only be used on iPhone 13 Pro models and above.
+
+The market size needs to be estimated through sales channel understanding, and since BMD is a private company, its financial information is not available.
 
 ## 3. Research our competition
 
