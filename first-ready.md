@@ -67,6 +67,8 @@ Verify the proposed business name is available in the requested state.
 
 I am not sure if I need to fill out a BE-13 filing.(2022-11-24, Thanksgiving)
 
+## Compliance Investment Filing
+
 According to the overseas investment requirements of Chinese enterprises, direct investment filing is required.
 
 Since the investment amount does not exceed 300 million US dollars, and it is an investment in an encouraged industry, it is only necessary to submit the information form on the web platform of the Ministry of Commerce of China.
