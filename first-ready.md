@@ -60,7 +60,15 @@ MAILROOMTHOMASXUR96E966
 2. Physical address Service -- 1007 N Orange St. 4th Floor  Suite #1403, Wilmington, Delaware 19801, United States
 
 Verify the proposed business name is available in the requested state.
+
 I am not sure if I need to fill out a BE-13 filing.(2022-11-24, Thanksgiving)
+
+According to the overseas investment requirements of Chinese enterprises, direct investment filing is required.
+
+Since the investment amount does not exceed 300 million US dollars, and it is an investment in an encouraged industry, it is only necessary to submit the information form on the web platform of the Ministry of Commerce of China.
+
+Feasibility study report and investment resolution of the project need to be prepared. The prepared materials need to clearly describe the source and use of funds.
+The benefits of the project for the home country and the benefits for the foreign country.
 
 ## Physical address Service
 
