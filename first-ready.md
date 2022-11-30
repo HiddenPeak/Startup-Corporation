@@ -59,6 +59,10 @@ MAILROOMTHOMASXUR96E966
 1. Verify Business Name -- Hiddenpeak Inc.
 2. Physical address Service -- 1007 N Orange St. 4th Floor  Suite #1403, Wilmington, Delaware 19801, United States
 
+The only way to write an address to receive mail is to
+
+1007 N Orange St. 4th Floor  Suite #1403, Wilmington, Delaware 19801, United States, Hiddenpeak Inc.
+
 Verify the proposed business name is available in the requested state.
 
 I am not sure if I need to fill out a BE-13 filing.(2022-11-24, Thanksgiving)
