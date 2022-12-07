@@ -138,3 +138,5 @@ A Foreign Investor Information Report may be required to be filed with the Burea
 To open a business entity outside of Delaware, you will need to obtain a franchise permit from each state. A franchise tax of at least $400 per year will need to be paid to the State of Delaware. 
 
 There are other situations that will be updated here.
+
+The Chinese government requires all overseas investments to be filed or approved, requiring information on the investee company and the project's investment plan, which have been produced. Prepare to submit the relevant information.
