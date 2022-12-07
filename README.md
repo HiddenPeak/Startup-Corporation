@@ -9,6 +9,7 @@ Open Source Hardware Biz-plan
 - 2022-11-03 Hardware selection for open source version completed
 - 2022-11-15 Start incorporating a U.S. company
 - 2022-11-25 Completed Notarize for USPS Form 1583
+- 2022-12-08 Over 17 business days, still waiting for the DE Division of Corporations to process filings (Firstbase.io tell me 10-15 business days). Maybe Start day is from 25,Nov.
 
 The story is continuing
 
