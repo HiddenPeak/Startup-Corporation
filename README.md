@@ -2,6 +2,8 @@
 
 Open Source Hardware Biz-plan
 
+The plan is to provide a platform for open source hardware with open source functionality, closed source commercialization of user interaction firmware, and a demonstration case for that platform. This Github project, is a demonstration case.
+
 ## TIMELINE
 
 - 2022-08-30 coding for it.
