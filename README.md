@@ -17,6 +17,7 @@ GMT+8
 - 2022-12-10 HiddenPeak Inc. Filed and approved by the Secretary of State, the Certificate of Incorporation legally creates the corporation as a registered entity in Delaware.
 - 2022-12-18 Create a Logo Via tailorbrands Standard Plan.
 - 2022-12-18 Preparing to file annual reports 
+- 2022-12-18 submit BE-13 (Claim for Exemption)
 
 The story is continuing
 
