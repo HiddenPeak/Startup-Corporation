@@ -32,5 +32,7 @@ The story is continuing
 - Firstbase Agent™ $99/year
 - Mailroom Delaware $35/mo (FROM 11/15/2022)
 - Chinese Resident ID Card Translation Fees RMB 100 Yuan
-- Total $633 AND RMB 100 YUAN
 - tailorbrands Standard Plan $71.88/year (discount 35% With coupon)
+- Total $740 AND RMB 100 YUAN
+
+
