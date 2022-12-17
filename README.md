@@ -24,7 +24,7 @@ The story is continuing
 - [BUSINESS PRE WORK](./prepWork.md)
 - [FRISTWORK](./first-ready.md)
 
-![Magic Cinetools Logo whitebackground](./logo_white_background.jpg =300)
+![Magic Cinetools Logo whitebackground](./logo_white_background.jpg)
 
 ## Current Expenses
 
