@@ -35,6 +35,6 @@ The story is continuing
 - Chinese Resident ID Card Translation Fees RMB 100 Yuan
 - tailorbrands Standard Plan $71.88/year (discount 35% With coupon)
 - Firstbase Agent™ 2022 Annual Report Filing Fee $100
-- Total $740 AND RMB 100 YUAN
+- Total $840 AND RMB 100 YUAN
 
 
