@@ -67,6 +67,8 @@ Verify the proposed business name is available in the requested state.
 
 I am not sure if I need to fill out a BE-13 filing.(2022-11-24, Thanksgiving)
 
+Submit BE-13 (Claim for Exemption) 2022-11-24
+
 ### Compliance Investment Filing
 
 According to the overseas investment requirements of Chinese enterprises, direct investment filing is required.
