@@ -15,6 +15,7 @@ GMT+8
 - 2022-11-25 Completed Notarize for USPS Form 1583
 - 2022-12-08 Over 17 business days, still waiting for the DE Division of Corporations to process filings (Firstbase.io tell me 10-15 business days). Maybe Start day is from 25,Nov. Today, I spoke with the BMD dealer in Sichuan, China today. They contacted the head of BMD China and BMD they are willing to test and promote the product to enrich their own product features and application scenarios. bmd's sichuan distributor plans to start marketing preparation in february 2023 and bmd plans to promote our products and services at a distributor meeting in Singapore.
 - 2022-12-10 HiddenPeak Inc. Filed and approved by the Secretary of State, the Certificate of Incorporation legally creates the corporation as a registered entity in Delaware.
+- 2022-12-18 Create a Logo Via tailorbrands Standard Plan.
 
 The story is continuing
 
