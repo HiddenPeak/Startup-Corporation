@@ -18,6 +18,7 @@ GMT+8
 - 2022-12-18 Create a Logo Via tailorbrands Standard Plan.
 - 2022-12-18 Preparing to file annual reports 
 - 2022-12-18 submit BE-13 (Claim for Exemption)
+- 2022-12-18 BE-13 Submission Confirmed, Thank You
 
 The story is continuing
 
