@@ -19,6 +19,8 @@ GMT+8
 - 2022-12-18 Preparing to file annual reports 
 - 2022-12-18 submit BE-13 (Claim for Exemption)
 - 2022-12-18 BE-13 Submission Confirmed, Thank You
+- 2022-12-29 signatured Form SS-4 & Form 8821 via Firstbase.io (Online type my name)
+
 
 The story is continuing
 
