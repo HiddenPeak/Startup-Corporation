@@ -21,6 +21,7 @@ GMT+8
 - 2022-12-18 BE-13 Submission Confirmed, Thank You
 - 2022-12-30 signatured Form SS-4 & Form 8821 via Firstbase.io (Online type my name)
 - 2023-01-05 Mercury Bank Account apply, For companies whose shareholders are corporations, the forms that need to be filled out are not too friendly. I'm going to write an email to give them feedback.
+- 2023-01-06 Mercury Bank Account Active,There are Checking & Saving Account, Debet Card.
 
 The story is continuing
 
