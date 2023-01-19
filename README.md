@@ -22,6 +22,7 @@ GMT+8
 - 2022-12-30 signatured Form SS-4 & Form 8821 via Firstbase.io (Online type my name)
 - 2023-01-05 Mercury Bank Account apply, For companies whose shareholders are corporations, the forms that need to be filled out are not too friendly. I'm going to write an email to give them feedback.
 - 2023-01-06 Mercury Bank Account Active,There are Checking & Saving Account, Debet Card.
+- 2023-01-19 The business service provider has launched a new registered agent service package, dubbed Autopilot, which includes annual reporting and franchise tax filing services, and a self-service form-filling tool on foreign-invested enterprises (Form 5472 & Form 1120). An additional $200 is required, but since the previous registered agent service is already 2 months old, the discounted amount is a retroactive $179.
 
 The story is continuing
 
@@ -36,10 +37,11 @@ The story is continuing
 
 - Firtsbase Start™ $499
 - Firstbase Agent™ $99/year
+- Firstbase Agent™ upgrade to Autopilot Plan for 10 months $179
 - Mailroom Delaware $35/mo (FROM 11/15/2022)
 - Chinese Resident ID Card Translation Fees RMB 100 Yuan
 - tailorbrands Standard Plan $71.88/year (discount 35% With coupon)
 - Firstbase Agent™ 2022 Annual Report Filing Fee $100
-- Total $840 AND RMB 100 YUAN
+- Total $81054 AND RMB 100 YUAN
 
 
