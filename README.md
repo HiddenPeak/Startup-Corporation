@@ -30,6 +30,7 @@ The story is continuing
 
 - [BUSINESS PRE WORK](./prepWork.md)
 - [FRISTWORK](./first-ready.md)
+- [Website 1G](https://hiddenpeakinc.com)
 
 ![Magic Cinetools Logo whitebackground](./logo_white_background.jpg)
 
@@ -42,6 +43,6 @@ The story is continuing
 - Chinese Resident ID Card Translation Fees RMB 100 Yuan
 - tailorbrands Standard Plan $71.88/year (discount 35% With coupon)
 - Firstbase Agent™ 2022 Annual Report Filing Fee $100
-- Total $81054 AND RMB 100 YUAN
+- Total $1054 AND RMB 100 YUAN
 
 
