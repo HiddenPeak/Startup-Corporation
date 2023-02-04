@@ -23,6 +23,7 @@ GMT+8
 - 2023-01-05 Mercury Bank Account apply, For companies whose shareholders are corporations, the forms that need to be filled out are not too friendly. I'm going to write an email to give them feedback.
 - 2023-01-06 Mercury Bank Account Active,There are Checking & Saving Account, Debet Card.
 - 2023-01-19 The business service provider has launched a new registered agent service package, dubbed Autopilot, which includes annual reporting and franchise tax filing services, and a self-service form-filling tool on foreign-invested enterprises (Form 5472 & Form 1120). An additional $200 is required, but since the previous registered agent service is already 2 months old, the discounted amount is a retroactive $179.
+- 2023-02-04 I received an email from the IRS, guessing that the EIN should have arrived. Arrangements have been made to open the mail and scan it.Account registration has been completed for Stripe, Wix.com. wix.com has chosen the $32/month version of the e-commerce site to catch the 50% discount.
 
 The story is continuing
 
@@ -43,6 +44,7 @@ The story is continuing
 - Chinese Resident ID Card Translation Fees RMB 100 Yuan
 - tailorbrands Standard Plan $71.88/year (discount 35% With coupon)
 - Firstbase Agent™ 2022 Annual Report Filing Fee $100
-- Total $1054 AND RMB 100 YUAN
+- Wix.COM $192/year
+- Total $1246 AND RMB 100 YUAN
 
 
